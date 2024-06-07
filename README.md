@@ -67,10 +67,7 @@ King Mongkut's University of Technology Thonburi, Bangkok, Thailand
 - **Technologies:** Firebase, Redis, SQLite, MySQL (MariaDB), Postgresql family, MongoDB
 
 ### Infrastructure
-- **Technologies:** Container concept including Docker
-
-## Languages
-- **English:** Proficient
+- **Technologies:** Linux, Container, Docker and K8S concepts
 
 ## Interests
 - Progressive Web Apps
@@ -82,6 +79,11 @@ King Mongkut's University of Technology Thonburi, Bangkok, Thailand
 - System Reliability Theory
 - Cost optimization
 
+## Projects
+- A Distributed Certificate Storage using Inter Planetary File System, SIT KMUTT
+- Analytics System for Productivity Improvement in Agriculture (ASPIA), Digital Thailand Big Bang 2017 Exhibition
+- Cross platform application using Flutter, Appi Co., Ltd.
+  
 ## Conferences & Workshops
 - Global Mobile App Summit and Awards (GMASA) 2016
 - UX Talk: EP.3. Empathy, UX Connect, Bangkok University
@@ -92,13 +94,11 @@ King Mongkut's University of Technology Thonburi, Bangkok, Thailand
 - Get Started with Web Components, Google Thailand Office
 - And much more..
 
-## Projects
-- A Distributed Certificate Storage using Inter Planetary File System, SIT KMUTT
-- Analytics System for Productivity Improvement in Agriculture (ASPIA), Digital Thailand Big Bang 2017 Exhibition
-- Cross platform application using Flutter, Appi Co., Ltd.
-  
 ## Community Contribution
 - Active participant and organizer in the Thailand developer community.
 - Involved in events such as BKK.JS, Code in the Wind, and various events by (Creator Gartens)[https://creatorsgarten.org/events].
+
+## Organized Events and Contributions
+<img src="joined_events.png" width="500"/>
 
 ---
