@@ -62,7 +62,7 @@ King Mongkut's University of Technology Thonburi, Bangkok, Thailand
 
 ### Backend
 - **Technologies:** Django, NodeJS or bun, .NET, Go
-- 
+
 ### Database
 - **Technologies:** Firebase, Redis, SQLite, MySQL (MariaDB), Postgresql family, MongoDB
 
