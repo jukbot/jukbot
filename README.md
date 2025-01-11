@@ -22,16 +22,16 @@ Experienced Fullstack Engineer with a strong background in search builder, datab
 
 ## Work Experience
 
-### Contract Fullstack Engineer
+### Associated Product Development Manager
 **Opsta Co., Ltd.**  
-*2024 - Present*
-- Developed and maintained full-stack applications, ensuring high performance and scalability.
-- Implemented search builder functionalities to enhance data retrieval efficiency.
-- Focused on code quality improvement processes, including code reviews and automated testing.
+*2025 - Present*
+- Collaborated with cross-functional teams to enhance product scalability and user experience.
+- Focused on customer success by implementing features like search builder for efficient data access and support.
+- Led product development initiatives, ensuring alignment with customer needs and business goals.
 
 ### Fullstack Engineer
 **CalCal Co., Ltd.**  
-*2020 - Present*
+*2020 - 2024*
 - Designed and developed web applications using modern frameworks and technologies.
 - Enhanced database security through hardening techniques and regular audits.
 - Collaborated with cross-functional teams to deliver high-quality software solutions.
