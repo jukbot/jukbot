@@ -3,7 +3,7 @@
 ## Juk's Manifesto
 > “Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."
 > 
-> – Jukbot
+> ― Antoine de Saint-Exupéry, Airman's Odyssey
 
 ![[Image of the year]([https://pbs.twimg.com/media/D9opf8zUwAEE48Y.jpg](https://i.redd.it/gc2m1tdq22w81.jpg =250x)https://i.redd.it/gc2m1tdq22w81.jpg)
 ](https://i.redd.it/gc2m1tdq22w81.jpg)
