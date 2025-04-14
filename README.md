@@ -22,7 +22,7 @@ Experienced Fullstack Engineer with a strong background in search builder, datab
 
 ## Work Experience
 
-### Associated Product Development Manager
+### Senior Software Engineering
 **Opsta Co., Ltd.**  
 *2025 - Present*
 - Collaborated with cross-functional teams to enhance product scalability and user experience.
