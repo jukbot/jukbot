@@ -13,7 +13,7 @@
 
 ## Contact Information
 - **Website:** [juk.life](https://juk.life)
-- **Phone:** 086-361-3535
+- **Phone:** 098-469-3595
 - **Email:** chukkrit.juk@gmail.com
 - **LinkedIn:** [jukbot](https://www.linkedin.com/in/jukbot)
 
@@ -54,20 +54,6 @@ Experienced Fullstack Engineer with a strong background in search builder, datab
 **Bachelor of Science in Computer Science**  
 King Mongkut's University of Technology Thonburi, Bangkok, Thailand  
 *Class of 2014*
-
-## Domain Skills
-
-### Frontend
-- **Technologies:** Polymer, React, VueJS, Svelte
-
-### Backend
-- **Technologies:** Django, NodeJS or bun, .NET, Go
-
-### Database
-- **Technologies:** Firebase, Redis, SQLite, MySQL (MariaDB), Postgresql family, MongoDB
-
-### Infrastructure
-- **Technologies:** Linux, Container, Docker and K8S concepts
 
 ## Interests
 - Progressive Web Apps
